@@ -1,0 +1,13 @@
+body {
+  height: 100vh;
+  /* background: url(https://thumbs.dreamstime.com/z/vector-geometric-background-can-be-used-cover-design-book-design-website-background-cd-cover-advertising-white-marble-108156913.jpg); */
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  color: white;
+}
+.bd {
+  border-bottom: 2px red;
+  box-shadow: 2px rgb(151, 151, 214);
+}
